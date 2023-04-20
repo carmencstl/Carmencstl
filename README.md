@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there! I'm Carmen, a programming student at 42 Málaga. 💻📚 For the past year, I've been self-taught in various technologies, including HTML, CSS, and JavaScript. Currently, I'm immersing myself in learning C, a powerful and versatile programming language.
+What's Up! I'm Carmen, a programming student at 42 Málaga. 💻📚 For the past year, I've been self-taught in various technologies, including HTML, CSS, and JavaScript. Currently, I'm immersing myself in learning C, a powerful and versatile programming language.
 
 I'm passionate about programming and enjoy every moment I spend on it. I love solving problems and creating creative solutions, and I firmly believe that programming can help change the world in a positive way. 🌎💪
 
