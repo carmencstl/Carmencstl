@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=4000&pause=2000&color=F787B3&background=36FFD100&width=435&lines=Hi+there+!+%F0%9F%92%96+I'm+Carmen)](https://git.io/typing-svg)
 
 <!--
 **carmencstl/Carmencstl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
