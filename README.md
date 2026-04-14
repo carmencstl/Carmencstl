@@ -21,7 +21,7 @@ AWS · Terraform · Docker · GitHub Actions · SQL
 
 **Gabit** — a gamified habit tracking app (my TFG)
 Laravel + Angular, deployed on AWS with full CI/CD pipeline.
-→ [gabit.es](https://gabit.es)
+🚧 Currently in development
 
 ## 📫 Find me here
 [LinkedIn](https://www.linkedin.com/in/carmendeveloper/) · ccastillogaitan12@gmail.com
